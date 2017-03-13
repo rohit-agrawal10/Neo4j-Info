@@ -1,4 +1,4 @@
 pages:
     - Home: index.md
-    - Metadata: about.md
+    - Metadata: rohit-cmu.github.io/Neo4j-Info/about
 theme: jekyll-theme-slate
