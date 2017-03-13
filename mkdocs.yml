@@ -1,0 +1,5 @@
+site_name: 15-721 Extra Credit
+pages:
+    - Home: index.md
+    - Metadata: about.md
+theme: readthedocs
