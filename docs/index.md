@@ -5,10 +5,12 @@ The website contains information about the DBMS Neo4J.
 
 ### Overview
 
-#### Description: 
+### Description: 
+
 A high-level overview for the main idea of the system. This includes what kind of workload or application it seeks to support, what kind system architecture that it uses, and any other interesting or novel aspects about the system.
 
-#### History: 
+### History: 
+
 A brief description of how the project came about and its current status. This can include information about name changes, the key developers that helped build it if they are notable (e.g., Stonebraker, DeWitt), whether it is a derivative system (i.e., forked from another DBMS), whether it came out of an academic project, and whether the project has since gone defunct.
 
 
